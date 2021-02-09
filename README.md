@@ -4,15 +4,12 @@ This project is built on the fundamentals of creating a database structure that 
 
 ![screenshot](app/assets/images/app_screenshot.jpg)
 
-## Build-With
+## Built-With
 
 - Ruby -v  2.7.2
 - Rails -v 6.0
 - SQLite3
 - VScode
-
-
-## Getting Started
 
 ### Prerequisites
 
@@ -22,13 +19,13 @@ To get this project up and running locally, you must already have ruby and neces
 
 1. Open Terminal.
 2. Navigate to your desired location to download the contents of this repository.
-3. Copy and paste the following code into the Terminal: git clone git@github.com:Leandro-Barretoo/micro_reddit_rails.git
+3. Copy and paste the following code into the Terminal: git clone ```git@github.com:Leandro-Barretoo/micro_reddit_rails.git```
 4. cd```micro_reddit_rails```.
 5. Run ```bundle install``` to get the necesary gems.
 6. Run `rails db:migrate`.
 
 
-## Author Details::
+## Authors
 
 👤 **Leandro Barreto**
 
@@ -39,6 +36,7 @@ To get this project up and running locally, you must already have ruby and neces
 - Github: [@AshakaE](https://github.com/AshakaE)
 
 ## Acknowledgment
+
 The resources we have used to develop our project:
 
 - [Odin-project](https://www.theodinproject.com/courses/ruby-on-rails/lessons/building-with-active-record-ruby-on-rails)
