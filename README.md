@@ -1,24 +1,55 @@
-# README
+# Active Records Model of Micro-Reddit
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project is built on the fundamentals of creating a database structure that allows a user to send a post and comment on other posts.
 
-Things you may want to cover:
+![screenshot](app/assets/images/app_screenshot.jpg)
 
-* Ruby version
+## Build-With
 
-* System dependencies
+- Ruby -v  2.7.2
+- Rails -v 6.0
+- SQLite3
+- VScode
 
-* Configuration
 
-* Database creation
+## Getting Started
 
-* Database initialization
+### Prerequisites
 
-* How to run the test suite
+To get this project up and running locally, you must already have ruby and necessary gems installed on your computer
 
-* Services (job queues, cache servers, search engines, etc.)
+**To get this project set up on your local machine, follow these simple steps:**
 
-* Deployment instructions
+1. Open Terminal.
+2. Navigate to your desired location to download the contents of this repository.
+3. Copy and paste the following code into the Terminal: git clone git@github.com:Leandro-Barretoo/micro_reddit_rails.git
+4. cd```micro_reddit_rails```.
+5. Run ```bundle install``` to get the necesary gems.
+6. Run `rails db:migrate`.
 
-* ...
+
+## Author Details::
+
+👤 **Leandro Barreto**
+
+- Github: [@Leandro-Barretoo](https://github.com/Leandro-Barretoo)
+
+👤 **Ashaka Egerega**
+
+- Github: [@AshakaE](https://github.com/AshakaE)
+
+## Acknowledgment
+The resources we have used to develop our project:
+
+- [Odin-project](https://www.theodinproject.com/courses/ruby-on-rails/lessons/building-with-active-record-ruby-on-rails)
+- [micro reddit walkthrough](https://jberczel.github.io/micro-reddit-walkthrough/)
+- [Guides](https://guides.rubyonrails.org/active_record_validations.html#length)
+
+## Show your support
+
+Give ⭐ Star me on GitHub — it helps!
+
+## 📝 License
+
+This project is [MIT](lic.url) licensed.  
+
